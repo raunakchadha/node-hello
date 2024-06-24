@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/rauni09/node-hello.git'
+    repoURL: 'https://github.com/raunakchadha/node-hello.git'
     targetRevision: HEAD
     path: node-hello-chart
   destination:
