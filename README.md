@@ -37,9 +37,13 @@ Click New App or Add Application.
 
 Configure the application details:
 Application Name: node-hello
+
 Project: Select the appropriate ArgoCD project.
+
 Repository URL: https://github.com/raunakchadha/node-hello.git
+
 Path: node-hello-chart
+
 Cluster URL: URL of your Kubernetes cluster.
 
 
